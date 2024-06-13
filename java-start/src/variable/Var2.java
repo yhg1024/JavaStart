@@ -7,6 +7,8 @@ public class Var2 {
         a = 10; // 변수 초기화
 
         System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
 
     }
 }
